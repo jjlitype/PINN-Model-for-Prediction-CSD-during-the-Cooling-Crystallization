@@ -1,4 +1,4 @@
-# Crystal-Segmentation-Model
+# PINN model
 This is an open-source PINN model for prediction CSD during the cooling crystallization.
 # Copyright Information
 Copyright (C) 2025, Junjie Li and Bo Kong
